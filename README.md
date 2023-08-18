@@ -17,7 +17,7 @@ Zebra Link-OS プリンタ
 
 1. ZSU を起動する。
 1. [Option] を選択する。
-1. [Communication Timeout]を"50"以上の値にし、[OK]を選択。
+1. [Communication Timeout]を"100"の値にし、[OK]を選択。
 
 
 ![](https://supportcommunity.zebra.com/servlet/rtaImage?eid=ka10H000000KOht&feoid=00N0H00000K2Eou&refid=0EM0H0000014zrD)
@@ -33,5 +33,8 @@ Zebra Link-OS プリンタ
 
 ![](https://supportcommunity.zebra.com/servlet/rtaImage?eid=ka10H000000KOht&feoid=00N0H00000K2Eou&refid=0EM0H0000014ztd)
 NOTE Please note that the command must be followed by pressing Enter using the keyboard, otherwise the process will not work.
+
+
+1.  [Communication Timeout]を"10"の値にし、[OK]を選択。
 
 
