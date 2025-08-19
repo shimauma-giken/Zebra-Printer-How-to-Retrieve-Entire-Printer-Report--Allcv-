@@ -36,6 +36,6 @@ NOTE Please note that the command must be followed by pressing Enter using the
 
     ## [!!重要!!]
 
-1.  [Communication Timeout]を"10"の値に戻し、[OK]を選択。
+1.  [Communication Timeout]を"5"の値に戻し、[OK]を選択。
 
 
